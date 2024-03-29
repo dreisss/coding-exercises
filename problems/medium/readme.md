@@ -10,4 +10,4 @@ More difficult than easy.
 ## Problems
 
 1. [Some Basic Recursion](./001_basic_recursion/)
-2.
+2. [Smaller and Greater](./002_smaller_and_greater/)

@@ -16,7 +16,9 @@ Create a function that works like the Fibonacci function in math.
 <details>
   <summary>Solution?</summary>
 
-Based in the Tips section.
+Google it.
+
+Or... Based in the Tips section.
 
 1. Is a function that looks like this:
 
