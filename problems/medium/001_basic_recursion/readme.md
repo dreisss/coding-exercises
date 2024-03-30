@@ -22,7 +22,7 @@ Or... Based in the Tips section.
 
 1. Is a function that looks like this:
 
-$F_n=F_(n-1)+F_(n-2)$
+$F(n)=F(n-1)+F(n-2)$
 
 In other words: The current term is the last 2 summed together.
 And when the current is equal or less than 1, it results in 1.
