@@ -11,3 +11,7 @@ More difficult than easy.
 
 1. [Some Basic Recursion](./001_basic_recursion/)
 2. [Smaller and Greater](./002_smaller_and_greater/)
+   <!-- TODO: Rename Everything -->
+   <!-- TODO: Identify the Types -->
+   <!-- TODO: Pass a Test -->
+   <!-- TODO: Create Tests -->

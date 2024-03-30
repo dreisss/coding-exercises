@@ -14,3 +14,13 @@ Some exercises to train coding and logic skills.
 
 - Easy (Just search some list on Google)
 - [Medium](./problems/medium/)
+
+## Submit
+
+Submit your solutions to receive feedbacks. To submit follow this guide:
+
+- Fork this repository.
+- Create a folder with your github username inside the folder `solutions` (eg. `solutions/dreisss`).
+- Inside this folder, put your solutions inside a folder with the problem identification (eg. `001_basic_recursion`) and create a pull request with your solutions.
+
+To an example see the folder `solutions/dreisss/...`.
